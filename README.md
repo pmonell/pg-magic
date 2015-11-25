@@ -3,7 +3,7 @@
 ### Usage
 You can load csv to table by using the copy to table function
 ```python
-from pg-magic import csv_to_table
+from csv_to_table import copy_to_table
 
 csv_path = 'path/to/csv'
 table_name = 'desired_name'
